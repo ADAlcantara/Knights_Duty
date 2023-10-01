@@ -1,0 +1,12 @@
+Run = 60-84
+Dash = 120-144
+Idle = 160-220
+Hit = 240 - 260
+Death = 280 - 340
+Sword Idle = 370 - 440
+Attack 1 (Sword) = 450 - 509
+Attack 2 (Sword) = 510 - 570
+Shield Idle = 700 - 770
+Attack 1 (Shield) = 780 - 870
+Block (Shield) = 880 - 960
+
